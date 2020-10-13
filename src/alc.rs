@@ -124,7 +124,7 @@ extern "C" {
     #[link_name="alcCaptureStart"]
     pub fn alc_capture_start(device: *mut alc_device);
 
-    #[link_name="alcCreateContext"]
+    #[link_name="alcCaptureStop"]
     pub fn alc_capture_stop(device: *mut alc_device);
 
     #[link_name="alcCaptureSamples"]
