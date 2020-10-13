@@ -1,3 +1,5 @@
+#![deny(warnings)]
+
 mod al;
 mod alc;
 
