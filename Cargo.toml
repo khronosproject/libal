@@ -1,0 +1,5 @@
+[package]
+name = "libal"
+version = "0.0.0"
+authors = ["Casper Beyer <caspervonb@pm.me>"]
+edition = "2018"
