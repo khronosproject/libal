@@ -110,7 +110,7 @@ extern "C" {
         values: *mut alc_int,
     );
 
-    #[link_name="alcCreateContext"]
+    #[link_name="alcCaptureOpenDevice"]
     pub fn alc_capture_open_device(
         devicename: *const alc_char,
         frequency: alc_uint,
