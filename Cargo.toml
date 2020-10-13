@@ -2,5 +2,6 @@
 name = "libal"
 description = "Raw FFI bindings to platform libraries like libal."
 version = "0.0.0"
+license = "MIT"
 authors = ["Casper Beyer <caspervonb@pm.me>"]
 edition = "2018"
